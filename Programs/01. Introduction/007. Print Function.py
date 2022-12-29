@@ -1,5 +1,5 @@
 # NAME: MUHAMMAD USAMA
-# DIFFICULTY LEVEL: EASY                                               DATE: 07-DEC-2022
+# DIFFICULTY LEVEL: EASY                                               
 # Max Score: 20
 
 n = int(input("Enter value of n: "))

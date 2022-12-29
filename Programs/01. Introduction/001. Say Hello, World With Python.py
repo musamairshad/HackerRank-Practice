@@ -1,5 +1,5 @@
 # NAME: MUHAMMAD USAMA
-# DIFFICULTY LEVEL: EASY                                               DATE: 07-DEC-2022
+# DIFFICULTY LEVEL: EASY                                              
 # Max Score: 5
 
 print("Hello, World!")
