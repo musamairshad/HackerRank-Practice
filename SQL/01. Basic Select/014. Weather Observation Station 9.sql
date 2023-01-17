@@ -2,4 +2,4 @@
 -- DIFFICULTY LEVEL: EASY                                              
 -- Max Score: 10
 
-select count(city) - count(distinct city) from station;
+-- Will be added.

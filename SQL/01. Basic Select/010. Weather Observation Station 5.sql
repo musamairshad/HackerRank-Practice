@@ -1,5 +1,5 @@
 -- NAME: MUHAMMAD USAMA
 -- DIFFICULTY LEVEL: EASY                                              
--- Max Score: 10
+-- Max Score: 30
 
-select count(city) - count(distinct city) from station;
+-- Will be added.
