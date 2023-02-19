@@ -1,4 +1,4 @@
-![1_UGT1Rh9xLww3JeIDR1F0RQ-removebg-preview](https://user-images.githubusercontent.com/77895050/219933839-c182839e-6350-4cb6-90c8-89e1c7233630.png)
+![img|320x271,50%](https://user-images.githubusercontent.com/77895050/219933870-01bf1f7d-fe98-4003-a6ca-f135bf4c302c.png)
 
 
 Solutions to Hackerrank practice problems.
