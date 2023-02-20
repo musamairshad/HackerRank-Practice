@@ -3,8 +3,31 @@
 
 # Solutions to HackerRank practice problems.
 
-. Python
+- Python
   - Introduction
     - Say Hello, World! With Python
     - Python If-Else
     - Arithmetic Operators
+    - Python Division
+    - Loops
+    - Write a function
+    - Print Function
+  - Basic Data Types
+    - List Comprehensions
+    - Find the Runner-Up Score!
+  - Strings
+    - sWAP cASE
+    - String Split and Join
+    - What's Your Name
+    - Mutations
+  - Sets
+    - Set add()
+    - Set union() Operation
+    - Set intersection() Operation
+  - Math
+    - Mod Divmod
+    - Power - Mod Power
+  - Itertools
+    - itertools.product()
+  - Numpy
+    - Arrays
