@@ -5,7 +5,7 @@
 
 - Python
   - Introduction
-    - Say Hello, World! With Python
+    - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](Python/01. Introduction/001. Say Hello, World With Python.py) | Score : 5
     - Python If-Else
     - Arithmetic Operators
     - Python Division
