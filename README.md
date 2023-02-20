@@ -2,3 +2,9 @@
 
 
 # Solutions to HackerRank practice problems.
+
+. Python
+  - Introduction
+    - Say Hello, World! With Python
+    - Python If-Else
+    - Arithmetic Operators
