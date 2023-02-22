@@ -31,3 +31,7 @@
     - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score : 10
   - Numpy
     - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/Python/16.%20Numpy/001.%20Arrays.py) | Score : 20
+    
+- SQL
+  - Basic Select
+    - 
