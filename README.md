@@ -3,6 +3,10 @@
 
 # Solutions to HackerRank practice problems.
 
+- 30 Days of Code
+  - Day 0
+    - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%200.%20Hello%2C%20World.py) | Score : 30
+
 - Python
   - Introduction
     - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello%2C%20World%20With%20Python.py) | Score : 5
