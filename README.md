@@ -8,6 +8,8 @@
     - Hello, World | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%200.%20Hello%2C%20World.py) | Score : 30
   - Day 1
     - Data Types | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%201.%20Data%20Types.py) | Score : 30
+  - Day 2
+    - Operators | [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%202.%20Operators.py) | Score : 30
 
 - Python
   - Introduction
