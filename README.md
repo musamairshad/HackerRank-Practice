@@ -10,6 +10,8 @@
     - Data Types | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%201.%20Data%20Types.py) | Score : 30
   - Day 2
     - Operators | [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%202.%20Operators.py) | Score : 30
+  - Day 3
+    - Intro to Conditional Statements | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%203.%20Intro%20to%20Conditional%20Statements.py) | Score : 30
 
 - Python
   - Introduction
@@ -49,3 +51,6 @@
     - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/005.%20Japanese%20Cities'%20Attributes.sql) | Score : 10
     - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/006.%20Japanese%20Cities'%20Names.sql) | Score : 10
     - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/007.%20Weather%20Observation%20Station%201.sql) | Score : 15
+    - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/008.%20Weather%20Observation%20Station%203.sql) | Score : 10
+    - Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/009.%20Weather%20Observation%20Station%204.sql) | Score : 10
+    - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/SQL/01.%20Basic%20Select/019.%20Employee%20Names.sql) | Score : 10
