@@ -16,6 +16,10 @@
     - Class vs. Instance | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%204.%20Class%20vs.%20Instance.py) | Score : 30
   - Day 5
     - Loops | [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%205.%20Loops.py) | Score : 30
+  - Day 6
+    - Let's Review | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%206.%20Let's%20Review.py) | Score : 30
+  - Day 7
+    - Arrays | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/musamairshad/HackerRank-Practice/blob/master/30%20Days%20of%20Code/Day%207.%20Arrays.py) | Score : 30 
 
 - Python
   - Introduction
