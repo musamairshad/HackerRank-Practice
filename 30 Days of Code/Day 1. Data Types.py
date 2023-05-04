@@ -2,6 +2,7 @@
 # DIFFICULTY LEVEL: EASY                                              
 # Max Score: 30
 
+
 i = 4
 d = 4.0
 s = 'HackerRank '
