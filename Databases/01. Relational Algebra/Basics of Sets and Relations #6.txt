@@ -2,6 +2,7 @@ NAME: MUHAMMAD USAMA
 DIFFICULTY LEVEL: EASY                                               
 Max Score: 5
 
+
 Problem: What is the count of attributes (columns) returned in the following
 projection?
 Ans:
