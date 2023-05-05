@@ -2,6 +2,7 @@
 # DIFFICULTY LEVEL: EASY                                              
 # Max Score: 30
 
+
 def solve(meal_cost, tip_percent, tax_percent):
     tip = (meal_cost / 100) * tip_percent
     tax = (tax_percent / 100) * meal_cost
