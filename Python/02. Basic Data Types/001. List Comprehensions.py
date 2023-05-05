@@ -2,6 +2,7 @@
 # DIFFICULTY LEVEL: EASY                                               
 # Max Score: 10
 
+
 x = int(input())
 y = int(input())
 z = int(input())
