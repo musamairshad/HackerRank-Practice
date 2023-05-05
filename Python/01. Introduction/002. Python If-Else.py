@@ -15,6 +15,7 @@
 #     print("Not Weird")
 
 
+
 # 2nd Method:
 
 no = int(input("Enter number: "))
