@@ -18,7 +18,6 @@ for i in student_marks:
     print("%.2f" % avg)
             
             
-        
 # if(query_name in student_marks):
 #     sum = 0
 #     for i in range(len(student_marks[name])):
