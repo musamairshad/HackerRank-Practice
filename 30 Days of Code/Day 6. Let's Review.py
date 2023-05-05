@@ -23,7 +23,6 @@
 
 
 
-
 # 2nd Method
 
 T = int(input())
