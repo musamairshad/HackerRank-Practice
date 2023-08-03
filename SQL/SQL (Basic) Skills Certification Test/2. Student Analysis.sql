@@ -1,3 +1,5 @@
+-- NAME: MUHAMMAD USAMA
+
 -- 1st Method:
 select a.roll_number,a.name
 from student_information a, examination_marks b
