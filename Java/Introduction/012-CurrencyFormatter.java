@@ -1,3 +1,8 @@
+/*
+ * Author: Muhammad Daniyal Khan
+ * Difficulty Level: Easy
+ */
+
 import java.util.*;
 import java.text.*;
 
